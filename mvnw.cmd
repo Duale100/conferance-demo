@@ -37,6 +37,7 @@
 @echo off
 @REM set title of command window
 title %0
+set JAVA_HOME=C:\Program Files\Java\jdk-14.0.1
 @REM enable echoing by setting MAVEN_BATCH_ECHO to 'on'
 @if "%MAVEN_BATCH_ECHO%" == "on"  echo %MAVEN_BATCH_ECHO%
 
